@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+html, body {margin: 0; padding: 0;}
+
+#banner {
+    position: relative;
+    width: 970px;
+    height: 250px;
+    overflow: hidden;
+}
+
+#i01{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 1;
+}
+
+#i02{
+    position: absolute;
+    left: 0;
+    top: -600px;
+    opacity: 1;
+}
+#i02-0{
+    position: absolute;
+    left: 0;
+    top: -600px;
+    opacity: 1;
+}
+#i02-1{
+    position: absolute;
+    left: 0;
+    top: -600px;
+    opacity: 1;
+}
+#i02-2{
+    position: absolute;
+    left: 0;
+    top: -600px;
+    opacity: 1;
+}
+#i02-3{
+    position: absolute;
+    left: 0;
+    top: -600px;
+    opacity: 1;
+}
+
+#i03{
+    position: absolute;
+    left: 0;
+    top: 100%;
+    opacity: 1;
+}
+#i04{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+#i05{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+#i06{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+#i07{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+#i08{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+#i09{
+    position: absolute;
+    left: 10%;
+    top: 0;
+    opacity: 0;
+}
+#i10{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+
